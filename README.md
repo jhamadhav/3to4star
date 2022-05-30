@@ -6,9 +6,6 @@ This repo includes reading material and solved Question's code in **C++** and **
 
 For [Codechef's 3 to 4⭐ mentored course](https://www.codechef.com/learning/3to4star)
 
-- **S1** -> Syllabus 1
-- **D1** -> Day 1
-
 # Credit and details
 
 - Author: Madhav Jha
