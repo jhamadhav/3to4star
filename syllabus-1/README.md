@@ -47,3 +47,15 @@ If you cannot find Python code for any problem in this folder then try the link 
 - Doubly Increasing Path: [DINCPATH](https://www.codechef.com/MP3TO407/problems/DINCPATH)
     - Python solution: None
 - Ada King: [ADAKNG](https://www.codechef.com/MP3TO407/problems/ADAKNG)
+
+# Day 4
+
+- Priority Queue
+- Dijkstra’s Algorithm
+- Applications
+
+## Problems:
+
+- Save patient: [PAC6](https://www.codechef.com/MP3TO407/problems/PAC6)
+- Minimum Cost Walk: [MINWALK](https://www.codechef.com/MP3TO407/problems/MINWALK)
+- Chef and Reversing: [REVERSE](https://www.codechef.com/MP3TO407/problems/REVERSE)
