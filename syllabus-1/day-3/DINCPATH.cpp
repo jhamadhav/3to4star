@@ -30,8 +30,6 @@ void solve() {
 
     vector<int> dp(n, 0), temp(n, 0);
     for (auto j : arr) {
-        ll val = j.first;
-
         for (auto k : j.second) {
             temp[k.second] = 0;
         }

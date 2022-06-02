@@ -43,7 +43,6 @@ If you cannot find Python code for any problem in this folder then try the link 
 ## Problems:
 
 - Chef and Roads: [CL16BF](https://www.codechef.com/MP3TO407/problems/CL16BF)
-    - Python solution: https://www.codechef.com/viewsolution/11820522
 - Doubly Increasing Path: [DINCPATH](https://www.codechef.com/MP3TO407/problems/DINCPATH)
     - Python solution: None
 - Ada King: [ADAKNG](https://www.codechef.com/MP3TO407/problems/ADAKNG)
