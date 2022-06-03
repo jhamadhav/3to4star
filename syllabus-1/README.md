@@ -58,3 +58,15 @@ If you cannot find Python code for any problem in this folder then try the link 
 - Save patient: [PAC6](https://www.codechef.com/MP3TO407/problems/PAC6)
 - Minimum Cost Walk: [MINWALK](https://www.codechef.com/MP3TO407/problems/MINWALK)
 - Chef and Reversing: [REVERSE](https://www.codechef.com/MP3TO407/problems/REVERSE)
+
+# Day 4
+
+- Priority Queue
+- Dijkstra’s Algorithm
+- Applications
+
+## Problems:
+
+- Kingdom Unity: [KINGCON](https://www.codechef.com/MP3TO407/problems/KINGCON)
+- Tic Tac Toe: [TCTCTOE](https://www.codechef.com/MP3TO407/problems/TCTCTOE)
+- Fire Escape Routes: [FIRESC](https://www.codechef.com/MP3TO407/problems/FIRESC)
