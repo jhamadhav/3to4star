@@ -7,6 +7,8 @@ I primarily code in **C++**, but I will try to write equivalent code in **Python
 
 If you cannot find Python code for any problem in this folder then try the link in this README where I have attached solution links for Python code.
 
+> #### Algorithms visualization: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
 # Day 1
 
 - What is Graph?
@@ -35,6 +37,9 @@ If you cannot find Python code for any problem in this folder then try the link 
 # Day 3
 
 - Topological Ordering
+    - https://www.gatevidyalay.com/topological-sort-topological-sorting
+    - https://www.cs.usfca.edu/~galles/visualization/TopoSortIndegree.html
+    - https://csacademy.com/app/graph_editor
 - Directed Graphs
 - Shortest Path
 - Applications of shortest path algorithms
