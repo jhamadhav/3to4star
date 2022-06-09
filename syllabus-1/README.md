@@ -59,11 +59,11 @@ If you cannot find Python code for any problem in this folder then try the link 
 - Minimum Cost Walk: [MINWALK](https://www.codechef.com/MP3TO407/problems/MINWALK)
 - Chef and Reversing: [REVERSE](https://www.codechef.com/MP3TO407/problems/REVERSE)
 
-# Day 4
+# Day 5
 
-- Priority Queue
-- Dijkstra’s Algorithm
-- Applications
+- In-time/Out-time of Nodes
+- Cut Edges & Articulation Points
+- Basic & medium level problems
 
 ## Problems:
 
