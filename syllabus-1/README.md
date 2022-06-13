@@ -55,7 +55,9 @@ If you cannot find Python code for any problem in this folder then try the link 
 # Day 4
 
 - Priority Queue
+    - https://www.programiz.com/dsa/priority-queue
 - Dijkstra’s Algorithm
+    - https://www.gatevidyalay.com/dijkstras-algorithm-shortest-path-algorithm/
 - Applications
 
 ## Problems:
