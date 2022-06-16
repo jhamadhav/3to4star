@@ -77,3 +77,15 @@ If you cannot find Python code for any problem in this folder then try the link 
 - Kingdom Unity: [KINGCON](https://www.codechef.com/MP3TO407/problems/KINGCON)
 - Tic Tac Toe: [TCTCTOE](https://www.codechef.com/MP3TO407/problems/TCTCTOE)
 - Fire Escape Routes: [FIRESC](https://www.codechef.com/MP3TO407/problems/FIRESC)
+
+# Day 6
+
+- Bellman-Ford
+- Floyd Warshall
+- Negative weight cycle
+- Pros and cons of each of the algorithms
+
+## Problems:
+
+- Short in Average: [AVGSHORT](https://www.codechef.com/MP3TO407/problems/AVGSHORT)
+- Delivery Boy: [HOMDEL](https://www.codechef.com/MP3TO407/problems/HOMDEL)
