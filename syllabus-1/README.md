@@ -89,3 +89,16 @@ If you cannot find Python code for any problem in this folder then try the link 
 
 - Short in Average: [AVGSHORT](https://www.codechef.com/MP3TO407/problems/AVGSHORT)
 - Delivery Boy: [HOMDEL](https://www.codechef.com/MP3TO407/problems/HOMDEL)
+
+# Day 7
+
+- Disjoint Set Union
+- Minimum Spanning Tree
+- Prim’s Algorithm
+- Kruskal’s Algorithm
+
+## Problems:
+
+- Coal Scam: [COALSCAM](https://www.codechef.com/MP3TO407/problems/COALSCAM)
+- MST Queries: [MSTQS](https://www.codechef.com/MP3TO407/problems/MSTQS)
+- Rooted Minimum Spanning Tree: [MSTQS](https://www.codechef.com/MP3TO407/problems/ROOTMST)
