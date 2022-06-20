@@ -93,12 +93,15 @@ If you cannot find Python code for any problem in this folder then try the link 
 # Day 7
 
 - Disjoint Set Union
+    - https://www.cs.usfca.edu/~galles/visualization/DisjointSets.html
 - Minimum Spanning Tree
 - Prim’s Algorithm
+    - https://www.cs.usfca.edu/~galles/visualization/Prim.html
 - Kruskal’s Algorithm
+    - https://www.cs.usfca.edu/~galles/visualization/Kruskal.html
 
 ## Problems:
 
 - Coal Scam: [COALSCAM](https://www.codechef.com/MP3TO407/problems/COALSCAM)
 - MST Queries: [MSTQS](https://www.codechef.com/MP3TO407/problems/MSTQS)
-- Rooted Minimum Spanning Tree: [MSTQS](https://www.codechef.com/MP3TO407/problems/ROOTMST)
+- Rooted Minimum Spanning Tree: [ROOTMST](https://www.codechef.com/MP3TO407/problems/ROOTMST)
