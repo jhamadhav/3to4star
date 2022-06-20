@@ -81,6 +81,7 @@ If you cannot find Python code for any problem in this folder then try the link 
 # Day 6
 
 - Bellman-Ford
+    - https://algorithms.discrete.ma.tum.de/graph-algorithms/spp-bellman-ford/index_en.html
 - Floyd Warshall
 - Negative weight cycle
 - Pros and cons of each of the algorithms
