@@ -106,3 +106,13 @@ If you cannot find Python code for any problem in this folder then try the link 
 - Coal Scam: [COALSCAM](https://www.codechef.com/MP3TO407/problems/COALSCAM)
 - MST Queries: [MSTQS](https://www.codechef.com/MP3TO407/problems/MSTQS)
 - Rooted Minimum Spanning Tree: [ROOTMST](https://www.codechef.com/MP3TO407/problems/ROOTMST)
+
+# Day 8
+
+- Connected Components
+- Kosaraju’s Algorithm
+
+## Problems:
+
+- Chef and collection of stamps: [CHSTAMP](https://www.codechef.com/MP3TO407/problems/CHSTAMP)
+- Skiing: [SKIING](https://www.codechef.com/MP3TO407/problems/SKIING)
