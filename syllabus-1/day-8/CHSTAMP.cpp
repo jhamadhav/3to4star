@@ -4,12 +4,6 @@ using namespace std;
 #define endl "\n"
 #define ll long long
 
-#define f first
-#define s second
-#define pb push_back
-#define eb emplace_back
-#define ALL_THE(CAKE,LIE) for(auto LIE =CAKE.begin(); LIE != CAKE.end(); LIE++)
-
 // initialize max
 int mx = 5e4; // i.e. 5 x 10^4
 
@@ -19,11 +13,9 @@ void solve()
     cin >> n >> m;
 
     vector<vector<pair<int, int>>> vec(mx + 3); // graph for different days
-
     unordered_map<int, int> tp; // count of stamps that chef has, initially: all = 0
     for (int i = 0;i < n;i++) {
-        int x;
-        cin >> x;
+        int x;  cin >> x;
         tp[x]++;
     }
 
@@ -104,6 +96,5 @@ int main() {
     while (t--) {
         solve();
     }
-
     return 0;
 }
