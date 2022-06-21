@@ -111,6 +111,7 @@ If you cannot find Python code for any problem in this folder then try the link 
 
 - Connected Components
 - Kosaraju’s Algorithm
+    - https://takeuforward.org/data-structure/kosarajus-algorithm-for-strongly-connected-componentsscc/
 
 ## Problems:
 
