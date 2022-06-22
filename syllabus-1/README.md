@@ -117,3 +117,17 @@ If you cannot find Python code for any problem in this folder then try the link 
 
 - Chef and collection of stamps: [CHSTAMP](https://www.codechef.com/MP3TO407/problems/CHSTAMP)
 - Skiing: [SKIING](https://www.codechef.com/MP3TO407/problems/SKIING)
+
+# Day 9
+
+- Least Common Ancestor
+- Naive Approach
+- Binary Lifting
+- Distance between 2 nodes in a tree
+
+## Problems:
+
+- Nuttela Path Unit: [ENOC1](https://www.codechef.com/problems/ENOC1)
+- Dual Distance: [DUALDIST](https://www.codechef.com/problems/DUALDIST)
+- Lowest Common Ancestor: [TALCA](https://www.codechef.com/problems/TALCA)
+- Children Trips: [TRIPS](https://www.codechef.com/problems/TRIPS)
