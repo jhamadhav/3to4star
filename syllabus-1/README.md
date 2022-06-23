@@ -121,8 +121,12 @@ If you cannot find Python code for any problem in this folder then try the link 
 # Day 9
 
 - Least Common Ancestor
+    - https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+    - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 - Naive Approach
 - Binary Lifting
+    - https://www.geeksforgeeks.org/lca-in-a-tree-using-binary-lifting-technique/
+    - https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 - Distance between 2 nodes in a tree
 
 ## Problems:
