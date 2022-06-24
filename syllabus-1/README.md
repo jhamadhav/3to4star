@@ -135,3 +135,9 @@ If you cannot find Python code for any problem in this folder then try the link 
 - Dual Distance: [DUALDIST](https://www.codechef.com/problems/DUALDIST)
 - Lowest Common Ancestor: [TALCA](https://www.codechef.com/problems/TALCA)
 - Children Trips: [TRIPS](https://www.codechef.com/problems/TRIPS)
+
+# Day 10
+
+- Range Queries
+- Segment Trees
+    - ST length proof: https://www.quora.com/Why-does-4-*-N-space-have-to-be-allocated-for-a-segment-tree-where-N-is-the-size-of-the-original-array
