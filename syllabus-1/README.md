@@ -138,6 +138,14 @@ If you cannot find Python code for any problem in this folder then try the link 
 
 # Day 10
 
-- Range Queries
+- Fenwick Tree
+    - https://www.hackerearth.com/practice/data-structures/advanced-data-structures/fenwick-binary-indexed-trees/tutorial/
+    - https://codeforces.com/blog/entry/61364
 - Segment Trees
     - ST length proof: https://www.quora.com/Why-does-4-*-N-space-have-to-be-allocated-for-a-segment-tree-where-N-is-the-size-of-the-original-array
+
+## Problems:
+
+- Trees and Queries: [IITK1P10](https://www.codechef.com/MP3TO407/problems/IITK1P10)
+- Match Sticks: [IITK1P10](https://www.codechef.com/MP3TO407/problems/MSTICK)
+
