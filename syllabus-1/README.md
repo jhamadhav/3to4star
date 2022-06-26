@@ -143,6 +143,7 @@ If you cannot find Python code for any problem in this folder then try the link 
     - https://codeforces.com/blog/entry/61364
 - Segment Trees
     - ST length proof: https://www.quora.com/Why-does-4-*-N-space-have-to-be-allocated-for-a-segment-tree-where-N-is-the-size-of-the-original-array
+- Leetcode: [307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/submissions/)
 
 ## Problems:
 
